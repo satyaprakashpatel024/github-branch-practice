@@ -16,7 +16,7 @@ Fix layout issue on mobile devices in the homepage
 
 Address memory leak in image upload feature
 
-
+Patch security vulnerability in user authentication
 
 
 

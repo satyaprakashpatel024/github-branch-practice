@@ -5,3 +5,8 @@ Implement product detail view
 Create shopping cart functionality
 Add user authentication (login/register)
 Implement checkout process
+Integrate payment gateway (Stripe/PayPal)
+Add order history page for users
+Implement product search functionality
+Add user reviews and ratings for products
+Create wishlist feature for users

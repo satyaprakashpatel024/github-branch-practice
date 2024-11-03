@@ -4,7 +4,7 @@ Add user registration functionality
 
 Implement login feature with session management
 
-
+Create user profile page
 
 
 

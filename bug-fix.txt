@@ -1,1 +1,8 @@
 i m bug fix file which will be used to tell and fix bug
+
+fixed another bug  in the code
+
+you are learning to fix bugs on different branch 
+
+
+

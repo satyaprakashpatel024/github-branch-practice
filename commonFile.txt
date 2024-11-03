@@ -1,0 +1,7 @@
+Feature Additions : 
+
+Add product listing page
+Implement product detail view
+Create shopping cart functionality
+Add user authentication (login/register)
+Implement checkout process

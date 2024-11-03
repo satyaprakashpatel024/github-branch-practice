@@ -12,3 +12,15 @@ Add user reviews and ratings for products
 Create wishlist feature for users
 Add category filtering on product listings
 Implement discount and coupon system
+
+Bug Fixes:
+
+Fix issue with cart not updating on quantity change
+Resolve bug causing incorrect total price calculation
+Fix layout issues on mobile devices
+Correct broken links in the product detail page
+Fix user session timeout issues
+Resolve payment processing errors for credit cards
+Fix display issue with product images
+Address bug where users cannot remove items from the cart
+

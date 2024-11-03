@@ -12,7 +12,7 @@ Resolve issue with incorrect password validation
 
 Correct typo in API endpoint causing 404 errors
 
-
+Fix layout issue on mobile devices in the homepage
 
 
 

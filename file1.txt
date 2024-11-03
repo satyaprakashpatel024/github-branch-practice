@@ -6,7 +6,7 @@ Implement login feature with session management
 
 Create user profile page
 
-
+Add password reset functionality
 
 
 

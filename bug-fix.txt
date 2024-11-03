@@ -14,7 +14,7 @@ Correct typo in API endpoint causing 404 errors
 
 Fix layout issue on mobile devices in the homepage
 
-
+Address memory leak in image upload feature
 
 
 

@@ -10,3 +10,5 @@ Add order history page for users
 Implement product search functionality
 Add user reviews and ratings for products
 Create wishlist feature for users
+Add category filtering on product listings
+Implement discount and coupon system

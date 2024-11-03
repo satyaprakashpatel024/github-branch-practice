@@ -1,0 +1,15 @@
+Feature Additions : 
+
+Add product listing page
+Implement product detail view
+Create shopping cart functionality
+Add user authentication (login/register)
+Implement checkout process
+
+
+Bug Fixes:
+
+Fix issue with cart not updating on quantity change
+Resolve bug causing incorrect total price calculation
+Fix layout issues on mobile devices
+Correct broken links in the product detail page
